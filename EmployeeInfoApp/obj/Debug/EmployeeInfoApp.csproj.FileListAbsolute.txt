@@ -1,0 +1,12 @@
+G:\Basis .net\Git project\EmployeeInfoApp\EmployeeInfoApp\bin\Debug\EmployeeInfoApp.exe.config
+G:\Basis .net\Git project\EmployeeInfoApp\EmployeeInfoApp\bin\Debug\EmployeeInfoApp.exe
+G:\Basis .net\Git project\EmployeeInfoApp\EmployeeInfoApp\bin\Debug\EmployeeInfoApp.pdb
+G:\Basis .net\Git project\EmployeeInfoApp\EmployeeInfoApp\obj\Debug\EmployeeInfoApp.csprojResolveAssemblyReference.cache
+G:\Basis .net\Git project\EmployeeInfoApp\EmployeeInfoApp\obj\Debug\EmployeeInfoApp.UI.DesignationUI.resources
+G:\Basis .net\Git project\EmployeeInfoApp\EmployeeInfoApp\obj\Debug\EmployeeInfoApp.UI.EmployeeInformationUI.resources
+G:\Basis .net\Git project\EmployeeInfoApp\EmployeeInfoApp\obj\Debug\EmployeeInfoApp.UI.FindEmployeeUI.resources
+G:\Basis .net\Git project\EmployeeInfoApp\EmployeeInfoApp\obj\Debug\EmployeeInfoApp.mainUI.resources
+G:\Basis .net\Git project\EmployeeInfoApp\EmployeeInfoApp\obj\Debug\EmployeeInfoApp.Properties.Resources.resources
+G:\Basis .net\Git project\EmployeeInfoApp\EmployeeInfoApp\obj\Debug\EmployeeInfoApp.csproj.GenerateResource.Cache
+G:\Basis .net\Git project\EmployeeInfoApp\EmployeeInfoApp\obj\Debug\EmployeeInfoApp.exe
+G:\Basis .net\Git project\EmployeeInfoApp\EmployeeInfoApp\obj\Debug\EmployeeInfoApp.pdb
